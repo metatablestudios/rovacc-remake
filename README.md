@@ -11,3 +11,5 @@ This is a ROvACC sector file fork that aims to add colors and more details to gr
 ---
 I am in no way endorsed or affiliated by ROvACC, VATEUD or VATSIM.
 
+These files are for VATSIM use only!
+
