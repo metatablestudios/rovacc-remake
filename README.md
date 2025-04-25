@@ -12,7 +12,9 @@ This is a ROvACC sector file fork that aims to add colors and more details to gr
 # Upcoming Airports
 - LRTZ - Tuzla Regional Aerodrome
 ---
-I am in no way endorsed or affiliated by ROvACC, VATEUD or VATSIM.
+**Legal Notice**
 
+I am in no way endorsed or affiliated by ROvACC, VATEUD or VATSIM.
+All trademarks are the property of their respective owners.
 These files are for VATSIM use only!
 
