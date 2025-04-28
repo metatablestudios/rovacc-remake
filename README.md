@@ -5,9 +5,11 @@ This is a ROvACC sector file fork that aims to add colors and more details to gr
  - LRCK - Constanta International Airport (Outlines will be added soon)
  - LRTC - Tuclea International Airport
  - LROP - Bucharest-Otopeni International Aiport (Some additonal details will be added soon)
+ - LRTR - Timisoara International Airport
+ - LRCL - Cluj Napoca International Aiport
 
 # List of Airports Work in Progress
-- LRTR - Timisoara International Airport
+- LRBS - Baneasa International Aiport
 
 # Upcoming Airports
 - LRTZ - Tuzla Regional Aerodrome
