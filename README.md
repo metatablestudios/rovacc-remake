@@ -1,3 +1,6 @@
+# UPDATE IN PROGRESS
+# THIS IS AN OLD AIRRAC VERSION!
+
 This is a ROvACC sector file fork that aims to add colors and more details to ground layouts. 
 # List of Airports
 
